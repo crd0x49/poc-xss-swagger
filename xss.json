@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/m4cddr/poc-xss-swagger/main/xss.yaml",
+    "url": "https://raw.githubusercontent.com/m4cddr/poc-xss-swagger/main/xss2.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/m4cddr/poc-xss-swagger/main/xss.yaml",
+            "url": "https://raw.githubusercontent.com/m4cddr/poc-xss-swagger/main/xss2.yaml",
             "name": "m4cddr"
         }
     ]
