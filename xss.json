@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/KingOfBugbounty/KingOfBugBountyTips/master/swagger.yaml",
+    "url": "https://raw.githubusercontent.com/m4cddr/poc-xss-swagger/main/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/KingOfBugbounty/KingOfBugBountyTips/master/swagger.yaml",
-            "name": "Foo"
+            "url": "https://raw.githubusercontent.com/m4cddr/poc-xss-swagger/main/xss.yaml",
+            "name": "m4cddr"
         }
     ]
 }
